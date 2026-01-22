@@ -1,0 +1,7 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "pp-lab",
+  "license": "BSD-3-Clause"
+}
